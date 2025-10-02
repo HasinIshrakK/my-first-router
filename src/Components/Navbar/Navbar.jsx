@@ -2,6 +2,7 @@ import React from 'react';
 import logo from '../../assets/logo.png'
 import { Moon, Sun } from 'lucide-react';
 import { Tooltip } from 'react-tooltip';
+import { Link } from 'react-router';
 
 const Navbar = () => {
 
@@ -21,10 +22,10 @@ const Navbar = () => {
                         <ul
                             tabIndex={0}
                             className="menu menu-sm dropdown-content bg-base-100 rounded-box z-1 mt-3 w-52 p-2 shadow">
-                            <li><a>Item 1</a></li>
+                            <li><Link to='/'>Home</Link></li>
                             <li><a>Item 2</a></li>
                             <li><a>Item 3</a></li>
-                            <li><a>Item 4</a></li>
+                            <li><Link to='/blog'>Blog</Link></li>
                         </ul>
                     </div>
                     <a className="btn btn-ghost text-xl flex items-center">
@@ -33,10 +34,10 @@ const Navbar = () => {
                 </div>
                 <div className="navbar-center hidden lg:flex">
                     <ul className="menu menu-horizontal px-1">
-                        <li><a>Item 1</a></li>
+                        <li><Link to='/'>Home</Link></li>
                         <li><a>Item 2</a></li>
                         <li><a>Item 3</a></li>
-                        <li><a>Item 4</a></li>
+                        <li><Link to='/blog'>Blog</Link></li>
                     </ul>
                 </div>
                 <div className="navbar-end gap-3">
