@@ -11,7 +11,7 @@ import Blog from './Pages/Blog/Blog.jsx'
 const router = createBrowserRouter(
   [
     {
-      path: '/',
+      path: '/my-first-router/',
       Component: App,
       children: [
         {
@@ -19,11 +19,11 @@ const router = createBrowserRouter(
           Component: Home,
         },
         {
-          path: '/blog',
+          path: '/my-first-router/blog',
           element: <Blog />
         },
         {
-          path:'*',
+          path:'/my-first-router/*',
           element: <Error></Error>
         }
       ]

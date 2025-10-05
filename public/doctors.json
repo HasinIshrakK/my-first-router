@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "image": "https://example.com/images/doctor1.jpg",
+    "name": "Dr. Ayesha Rahman",
+    "education": "MBBS, FCPS (Medicine)",
+    "speciality": "Medicine Specialist",
+    "experience": "12 years",
+    "registration_number": "BMDC-47821"
+  },
+  {
+    "id": 2,
+    "image": "https://example.com/images/doctor2.jpg",
+    "name": "Dr. Tanvir Hossain",
+    "education": "MBBS, MS (Orthopedics)",
+    "speciality": "Orthopedic Surgeon",
+    "experience": "9 years",
+    "registration_number": "BMDC-52364"
+  },
+  {
+    "id": 3,
+    "image": "https://example.com/images/doctor3.jpg",
+    "name": "Dr. Farzana Karim",
+    "education": "MBBS, MD (Cardiology)",
+    "speciality": "Cardiologist",
+    "experience": "15 years",
+    "registration_number": "BMDC-40677"
+  },
+  {
+    "id": 4,
+    "image": "https://example.com/images/doctor4.jpg",
+    "name": "Dr. Mahmudul Alam",
+    "education": "MBBS, MS (ENT)",
+    "speciality": "ENT Specialist",
+    "experience": "7 years",
+    "registration_number": "BMDC-58910"
+  },
+  {
+    "id": 5,
+    "image": "https://example.com/images/doctor5.jpg",
+    "name": "Dr. Samira Nahar",
+    "education": "MBBS, DGO (Gynecology)",
+    "speciality": "Gynecologist & Obstetrician",
+    "experience": "11 years",
+    "registration_number": "BMDC-46789"
+  },
+  {
+    "id": 6,
+    "image": "https://example.com/images/doctor6.jpg",
+    "name": "Dr. Rezaul Kabir",
+    "education": "MBBS, MD (Neurology)",
+    "speciality": "Neurologist",
+    "experience": "13 years",
+    "registration_number": "BMDC-49822"
+  },
+  {
+    "id": 7,
+    "image": "https://example.com/images/doctor7.jpg",
+    "name": "Dr. Nusrat Jahan",
+    "education": "MBBS, FCPS (Pediatrics)",
+    "speciality": "Child Specialist",
+    "experience": "10 years",
+    "registration_number": "BMDC-57431"
+  },
+  {
+    "id": 8,
+    "image": "https://example.com/images/doctor8.jpg",
+    "name": "Dr. Arif Chowdhury",
+    "education": "MBBS, MS (Urology)",
+    "speciality": "Urologist",
+    "experience": "8 years",
+    "registration_number": "BMDC-53276"
+  },
+  {
+    "id": 9,
+    "image": "https://example.com/images/doctor9.jpg",
+    "name": "Dr. Tasnia Akter",
+    "education": "MBBS, MD (Dermatology)",
+    "speciality": "Skin Specialist",
+    "experience": "9 years",
+    "registration_number": "BMDC-56124"
+  },
+  {
+    "id": 10,
+    "image": "https://example.com/images/doctor10.jpg",
+    "name": "Dr. Saiful Islam",
+    "education": "MBBS, MD (Psychiatry)",
+    "speciality": "Psychiatrist",
+    "experience": "14 years",
+    "registration_number": "BMDC-49320"
+  },
+  {
+    "id": 11,
+    "image": "https://example.com/images/doctor11.jpg",
+    "name": "Dr. Mitu Sultana",
+    "education": "MBBS, FCPS (Ophthalmology)",
+    "speciality": "Eye Specialist",
+    "experience": "6 years",
+    "registration_number": "BMDC-59044"
+  },
+  {
+    "id": 12,
+    "image": "https://example.com/images/doctor12.jpg",
+    "name": "Dr. Rashed Ahmed",
+    "education": "MBBS, MD (Nephrology)",
+    "speciality": "Kidney Specialist",
+    "experience": "12 years",
+    "registration_number": "BMDC-51233"
+  }
+]
