@@ -1,0 +1,56 @@
+[
+  {
+    "id": 7,
+    "image": "https://i.pinimg.com/474x/93/21/ca/9321ca4e33b13bf014f7b01e0b5f9026.jpg",
+    "name": "Dr. Nusrat Jahan",
+    "education": "MBBS, FCPS (Pediatrics)",
+    "speciality": "Child Specialist",
+    "experience": "10 years",
+    "registration_number": "BMDC-57431"
+  },
+  {
+    "id": 8,
+    "image": "https://i.pinimg.com/474x/93/21/ca/9321ca4e33b13bf014f7b01e0b5f9026.jpg",
+    "name": "Dr. Arif Chowdhury",
+    "education": "MBBS, MS (Urology)",
+    "speciality": "Urologist",
+    "experience": "8 years",
+    "registration_number": "BMDC-53276"
+  },
+  {
+    "id": 9,
+    "image": "https://i.pinimg.com/474x/93/21/ca/9321ca4e33b13bf014f7b01e0b5f9026.jpg",
+    "name": "Dr. Tasnia Akter",
+    "education": "MBBS, MD (Dermatology)",
+    "speciality": "Skin Specialist",
+    "experience": "9 years",
+    "registration_number": "BMDC-56124"
+  },
+  {
+    "id": 10,
+    "image": "https://i.pinimg.com/474x/93/21/ca/9321ca4e33b13bf014f7b01e0b5f9026.jpg",
+    "name": "Dr. Saiful Islam",
+    "education": "MBBS, MD (Psychiatry)",
+    "speciality": "Psychiatrist",
+    "experience": "14 years",
+    "registration_number": "BMDC-49320"
+  },
+  {
+    "id": 11,
+    "image": "https://i.pinimg.com/474x/93/21/ca/9321ca4e33b13bf014f7b01e0b5f9026.jpg",
+    "name": "Dr. Mitu Sultana",
+    "education": "MBBS, FCPS (Ophthalmology)",
+    "speciality": "Eye Specialist",
+    "experience": "6 years",
+    "registration_number": "BMDC-59044"
+  },
+  {
+    "id": 12,
+    "image": "https://i.pinimg.com/474x/93/21/ca/9321ca4e33b13bf014f7b01e0b5f9026.jpg",
+    "name": "Dr. Rashed Ahmed",
+    "education": "MBBS, MD (Nephrology)",
+    "speciality": "Kidney Specialist",
+    "experience": "12 years",
+    "registration_number": "BMDC-51233"
+  }
+]

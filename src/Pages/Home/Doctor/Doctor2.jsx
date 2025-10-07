@@ -1,9 +1,12 @@
 import React from 'react';
 
-const Doctor = ({ doctor }) => {
-    // console.log(doctor)
+const Doctor2 = ({ doctor }) => {
     return (
         <div className='border-2 p-4 rounded-2xl pb-2'>
+            <img className='h-80 w-full rounded-xl' src={doctor.image} alt="Doctor" />
+            <p className='text-[4px] italic opacity-50'>
+                The image is collected from a pin by Carol Vaughn
+            </p>
             <h1>
                 {
                     doctor.name
@@ -35,4 +38,4 @@ const Doctor = ({ doctor }) => {
     );
 };
 
-export default Doctor;
+export default Doctor2;
